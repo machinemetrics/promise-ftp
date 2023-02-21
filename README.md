@@ -1,3 +1,12 @@
+Purpose of Fork
+===========
+Fork from realtymaps/promise-ftp which is no longer updated, initially to 
+update it to point to a more recent version of @icetee/ftp which fixes a
+bug resulting in a rare uncaughtException: "ReferenceError: reentry is not defined",
+see discussion [here](https://github.com/icetee/remote-ftp/issues/1078) 
+
+Below is copied straight from the [original](https://github.com/realtymaps/promise-ftp)
+
 Description
 ===========
 
