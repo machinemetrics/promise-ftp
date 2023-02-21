@@ -29,7 +29,7 @@
     "promise-ftp-common": "^1.1.5"
   },
   "devDependencies": {
-    "coffee-script": "1.x"
+    "coffeescript": "^2.7.0"
   },
   "peerDependencies": {
     "promise-ftp-common": "^1.1.5"
